@@ -1,0 +1,8 @@
+[package]
+name = "example_screen_capture"
+version = "0.1.0"
+authors = ["gavynriebau <gavyn.riebau@gmail.com>"]
+
+[dependencies]
+scrap = "*"
+image = "*"
